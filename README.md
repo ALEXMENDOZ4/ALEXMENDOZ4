@@ -16,9 +16,9 @@ Alex Mendoza</a></h1>
 
 - 🤝 I’m available for freelancing.
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="" target="blank">100DaysOfSwift</a>
+- 🌱 I’m currently learning Swift && SwiftUI <a href="" target="blank"></a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 📝 I regularly write articles on
 
 - 💬 Ask me about **Reactjs & Angular & Nodejs**
 
