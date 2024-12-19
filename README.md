@@ -12,13 +12,9 @@ Alex Mendoza</a></h1>
 
 - 🔭 I’m currently working in <a href="" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 🌱 I am currently working on web applications (React and Angular)
 
 - 🤝 I’m available for freelancing.
-
-- 🌱 I’m currently learning Swift && SwiftUI <a href="" target="blank"></a>
-
-- 📝 I regularly write articles on
 
 - 💬 Ask me about **Reactjs & Angular & Nodejs**
 
@@ -87,6 +83,5 @@ Alex Mendoza</a></h1>
 
 ---
 
-Credit: [Saurabh Chavan](https://github.com/100rabhcsmc)
-
+Credit: [Saurabh Chavan](https://github.com/ALEXMENDOZ4)
 Last Edited on: 18/11/2024
