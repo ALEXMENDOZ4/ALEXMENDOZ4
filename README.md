@@ -24,7 +24,7 @@ Alex Mendoza</a></h1>
 
 - 📫 How to reach me **alexmendoza.pacheco@hotmail.com**
 
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1aQQFaD35_KwIRdHqpTbkMwTAtlMkSX3j/view?usp=sharing" target="blank">Resume</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
