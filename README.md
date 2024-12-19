@@ -10,8 +10,6 @@ Alex Mendoza</a></h1>
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="" target="blank">Griffyn Robotech Private Limited</a>
-
 - 🌱 I am currently working on web applications (React and Angular)
 
 - 🤝 I’m available for freelancing.
